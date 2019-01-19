@@ -1,0 +1,14 @@
+https://machinelearningmastery.com/handwritten-digit-recognition-using-convolutional-neural-networks-python-keras/
+
+http://neuralnetworksanddeeplearning.com/chap1.html
+
+https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6
+
+https://chrisalbon.com/deep_learning/keras/k-fold_cross-validating_neural_networks/
+
+https://medium.com/@RaghavPrabhu/understanding-of-convolutional-neural-network-cnn-deep-learning-99760835f148
+
+https://stackoverflow.com/questions/24509921/how-do-you-decide-the-parameters-of-a-convolutional-neural-network-for-image-cla
+
+https://pennlio.wordpress.com/2014/04/11/fully-connected-locally-connected-and-shared-weights-layer-in-neural-networks/
+
